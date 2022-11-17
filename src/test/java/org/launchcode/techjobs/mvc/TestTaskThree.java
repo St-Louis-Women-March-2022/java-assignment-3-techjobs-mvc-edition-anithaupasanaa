@@ -1,5 +1,5 @@
 package org.launchcode.techjobs.mvc;
-
+import org.launchcode.techjobs.mvc.models.JobData;
 import mockit.Expectations;
 import mockit.Mocked;
 import mockit.Tested;
